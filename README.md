@@ -1,7 +1,7 @@
 ## Hi, I'm Beau 👋
 
 
-I'm an aspiring SWE. I started my journey into coding in November of 2023. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
+I'm an aspiring SWE. I started my journey into coding in May of 2024. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
 So I took a Javascript course on FCC, and I immediately knew that this is what I was meant to do. 
 
 So far in my learning, I've discovered a love for frontend frameworks like React and NextJS, while also deep-diving into the backend with Node, Express and PostgreSQL. I am profiecient in Javascript
