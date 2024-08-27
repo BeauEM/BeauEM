@@ -19,12 +19,12 @@ My stack for this project
 
 💬 When I'm not coding, I am a passionate rock climber (bouldering) and gamer (Elden Ring, Destiny 2,  )
 
-📫 Want to connect? Hit me up on [LinkedIn]([https://www.linkedin.com/in/joshua-sanford-98619085](https://www.linkedin.com/in/beau-elliott/)).
+📫 Want to connect? Hit me up on [LinkedIn](https://www.linkedin.com/in/beau-elliott/).
 
 ⚡ If you think you have a position I could be a good fit for, let me know. I just need a chance to show what I can do 🚀
 
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=BeauEM&them=dark)](https://github.com/BeauEM/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=BeauEM&theme=dark)](https://github.com/BeauEM/github-readme-codewars)
 
 
 
