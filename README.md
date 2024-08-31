@@ -1,11 +1,12 @@
 ## Hi, I'm Beau 👋
 
 
-I'm an aspiring SWE. I started my journey into coding in May of 2024. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
-So I took a Javascript course on FCC, and I immediately knew that this is what I was meant to do. 
+I'm an aspiring SWE. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
+I started off building basic websites using HTML, CSS, Wordpress, and basic Javascript.
+As I branched off into deeper concepts, utilizing Python, Typescript and more, I knew that this is what I wanted to do with my life. 
 
-So far in my learning, I've discovered a love for frontend frameworks like React and NextJS, while also deep-diving into the backend with Node, Express and PostgreSQL. I am profiecient in Javascript
-and Typescript and have also begun learning Python.
+So far in my learning, I've discovered a love for frontend frameworks like React, while also deep-diving into the backend with Node, Express and PostgreSQL. 
+When it comes to languages, I am profiecient in Javascript, Typescript and Python. I've also started to learn Kotlin to build android apps.
 
 :brain: Currently, I'm working on a Full-stack Ecom app, which not only creates a digital store but also a business dashboard so users can update products and details from a centralized location.
 My stack for this project
