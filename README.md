@@ -2,7 +2,7 @@
 
 
 I'm an aspiring SWE. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
-I started off building basic websites using HTML, CSS, Wordpress, and basic Javascript.
+I started off building basic websites using HTML, CSS, Wordpress, and vanilla Javascript.
 As I branched off into deeper concepts, utilizing Python, Typescript and more, I knew that this is what I wanted to do with my life. 
 
 So far in my learning, I've discovered a love for frontend frameworks like React, while also deep-diving into the backend with Node, Express and PostgreSQL. 
@@ -29,7 +29,7 @@ My stack for this project
 
 
 
-### My Prefferd Stack 🛠️
+### My Preferred Stack 🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
