@@ -1,7 +1,7 @@
 ## Hi, I'm Beau 👋
 
 
-I'm an aspiring SWE. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
+I'm a SWE. After nearly 10 years working in SEO & online marketing, I knew that path was no longer for me. 
 I started off building basic websites using HTML, CSS, Wordpress, and vanilla Javascript.
 As I branched off into deeper concepts, utilizing Python, Typescript and more, I knew that this is what I wanted to do with my life. 
 
